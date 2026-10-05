@@ -1,0 +1,56 @@
+{
+  "_note": "Illustrative seeded demo data. Not real reports.",
+  "dossier_hint": "Recurring school road waterlogging",
+  "reports": [
+    {
+      "id": "018",
+      "language": "kn",
+      "original_text": "ಮಳೆ ಬಂದಾಗ ನಮ್ಮ ಶಾಲೆಯ ಮುಂದಿನ ರಸ್ತೆ ನೀರಿನಿಂದ ತುಂಬುತ್ತದೆ.",
+      "english_text": "When it rains, the road in front of our school fills with water.",
+      "input_type": "voice",
+      "has_photo": false,
+      "gps": { "lat": 12.9000, "lng": 77.6000 },
+      "date": "2026-08-12"
+    },
+    {
+      "id": "031",
+      "language": "hi",
+      "original_text": "बारिश होते ही स्कूल के सामने की सड़क पानी से भर जाती है।",
+      "english_text": "As soon as it rains, the road in front of the school fills with water.",
+      "input_type": "photo",
+      "has_photo": true,
+      "gps": { "lat": 12.9003, "lng": 77.6002 },
+      "date": "2026-08-14"
+    },
+    {
+      "id": "044",
+      "language": "en",
+      "original_text": "Children cannot reach school during heavy rain. The water stays for hours.",
+      "english_text": "Children cannot reach school during heavy rain. The water stays for hours.",
+      "input_type": "voice",
+      "has_photo": false,
+      "gps": { "lat": 12.8998, "lng": 77.5999 },
+      "date": "2026-08-19"
+    },
+    {
+      "id": "052",
+      "language": "en",
+      "original_text": "My shop near the school gets flooded every time there is a storm.",
+      "english_text": "My shop near the school gets flooded every time there is a storm.",
+      "input_type": "photo",
+      "has_photo": true,
+      "gps": { "lat": 12.9005, "lng": 77.6004 },
+      "date": "2026-08-21"
+    },
+    {
+      "id": "061",
+      "language": "kn",
+      "original_text": "ನಮಗೆ ಹೊಸ ರಸ್ತೆ ಬೇಕು.",
+      "english_text": "We need a new road.",
+      "input_type": "text",
+      "has_photo": false,
+      "gps": { "lat": 12.9001, "lng": 77.6001 },
+      "date": "2026-08-23"
+    }
+  ]
+}
