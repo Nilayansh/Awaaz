@@ -9,9 +9,6 @@
 
 **Team:** The Inquisition · **Members:** Nilayansh Upadhyay, Mehul Aggarwal, Neha Kommaraju, Divyansh Sharma
 
-> 🚧 **Status: Planning and design complete. Build in progress for the hackathon (Oct 17-18, 2026).**
-> Everything under "How it works" describes the planned system. Nothing here is claimed as already implemented.
-
 ---
 
 ## The problem

@@ -11,7 +11,10 @@ This folder holds the project diagrams and UI mockups exported from the submissi
 ### Data Flow Diagram (`dfd.png`)
 ![Data Flow Diagram](dfd.png)
 
-### UI Mockup (`ui-mockup.png`)
-![UI Mockup](ui-mockup.png)
+### UI: Capture to Dossier (`ui-capture-to-dossier.jpg`)
+![UI: Capture to Dossier](ui-capture-to-dossier.jpg)
+
+### UI: Evidence-Linked BRD (`ui-evidence-linked-brd.jpg`)
+![UI: Evidence-Linked BRD](ui-evidence-linked-brd.jpg)
 
 Mermaid versions of the flowchart and architecture are also in the main [README](../README.md).
